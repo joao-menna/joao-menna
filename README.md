@@ -1,7 +1,3 @@
-# 💫 About Me:
-I have the power to make anything I want in my hands... That's awesome
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-miguel-menna-0b8545218) 
 
